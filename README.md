@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ingrotsteinsw/?locale=en_US&trk=opento_sprofile_topcard](https://www.linkedin.com/in/ingrotsteinsw/?locale=en_US&trk=opento_sprofile_topcard)
 
-- ⚡ About me **My main interest is in Artificial Intelligence development, Data Science, and Fullstack Development. Throughout my academic background, I have acquired skills in programming, algorithm design, and data analysis, and I am continuously looking for opportunities to apply and expand this knowledge.**
+- ⚡**My main interest is in Artificial Intelligence development, Data Science, and Fullstack Development. Throughout my academic background, I have acquired skills in programming, algorithm design, and data analysis, and I am continuously looking for opportunities to apply and expand this knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
