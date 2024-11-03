@@ -16,13 +16,13 @@ Hi, I'm Ludwind!
 
 - 🌱 I’m currently learning **VueJs and Spring boot.**
 
-- 👨‍💻 All of my projects are available at [https://portafolio.com](https://portafolio.com)
+- 👨‍💻 All of my projects are available at --------
 
 - 💬 Ask me about **python, java, flask, MySQL, OpenCV, TensorFlow.**
 
 - 📫 How to reach me **ingrotstein@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ingrotsteinsw/?locale=en_US&trk=opento_sprofile_topcard](https://www.linkedin.com/in/ingrotsteinsw/?locale=en_US&trk=opento_sprofile_topcard)
+- 📄 Know about my experiences https://www.linkedin.com/in/ingrotsteinsw/?locale=en_US&trk=opento_sprofile_topcard
 
 - ⚡**My main interest is in Artificial Intelligence development, Data Science, and Fullstack Development. Throughout my academic background, I have acquired skills in programming, algorithm design, and data analysis, and I am continuously looking for opportunities to apply and expand this knowledge.**
 
@@ -40,7 +40,6 @@ Hi, I'm Ludwind!
    <code><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></code>
    <code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
    <code><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></code>
-   <code><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
    <code><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
    <code><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></code>
    <br/>
